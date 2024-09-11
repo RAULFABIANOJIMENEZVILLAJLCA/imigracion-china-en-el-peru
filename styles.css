@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #a1d6b2;
+}
+.ima2 {
+  display: flex;
+  justify-content: center;
+}
+.ima2 img {
+  width: 500px;
+}
+.ima3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
